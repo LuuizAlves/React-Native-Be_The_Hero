@@ -13,4 +13,4 @@ Governamentais (ONGs) que necessitam de algum auxilio monetário. No cadastro é
 solicitado o nome da ONG, seu email, seu contato, sua cidade e seu UF. Ao realizar o
 cadastro ela pode acessar o sistema através de um ID que lhe será fornecido.
 
-![](https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/ezgif.com-video-to-gif.gif?raw=true)
+![](https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/BeTheHero.gif?raw=true)
