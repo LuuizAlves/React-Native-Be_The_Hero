@@ -37,8 +37,6 @@ cadastrados. Através do aplicativo é que o usuário vai poder entrar em contat
 determinada ONG, ao acessar o detalhes terá a opção de mandar um mensagem por
 Whatsapp ou Email.
 
-![](https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/BeTheHero%20-%20Mobile.gif?raw=true)
-
 <p align="center">
   <img src="https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/BeTheHero%20-%20Mobile.gif?raw=true" alt="Sublime's custom image"/>
 </p>
