@@ -28,3 +28,13 @@ caso, a descrição e o valor que é necessário. Ainda na tela de Home do Be Th
 possível realizar o Logout da aplicação.
 
 ![](https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/BeTheHero%20-%20Home.gif?raw=true)
+
+### 📱 Mobile
+
+A aplicação mobile utiliza a mesma API que foi criado com Node JS, no entanto não é
+possível realizar o cadastro de ONGs ou Casos, só é possível visualizar os casos já
+cadastrados. Através do aplicativo é que o usuário vai poder entrar em contato com uma
+determinada ONG, ao acessar o detalhes terá a opção de mandar um mensagem por
+Whatsapp ou Email.
+
+![](https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/BeTheHero%20-%20Mobile.gif?raw=true)
