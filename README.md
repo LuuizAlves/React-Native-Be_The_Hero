@@ -1,7 +1,7 @@
 # Be The Hero 🦸‍♂️🦸‍♀️
 ![](https://img.shields.io/github/languages/count/LuuizAlves/Be_The_Hero) ![](https://img.shields.io/github/languages/top/LuuizAlves/Be_The_Hero) ![](https://img.shields.io/github/last-commit/LuuizAlves/Be_The_Hero) ![](https://img.shields.io/github/repo-size/LuuizAlves/Be_The_Hero)
 
-A aplicação Be The Hero foi desenvolvida durante a Semana OmniStack11
+Aplicação desenvolvida durante a Semana OmniStack 11, utilizando a Stack Node Js, React e React Native.
 
 Be The Hero é uma aplicação que conecta pessoas que possuem vontade de ajudar ao
 próximo, no entanto muitos não possuem tempo. Assim a aplicação possibilita o cadastro
