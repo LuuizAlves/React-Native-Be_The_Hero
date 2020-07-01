@@ -9,7 +9,7 @@ de ONGs  que necessitam de uma ajuda monetária para algum caso específico. É 
 aplicação completa que vai do backend, web e mobile.
 
 ### 🚀 Tecnologias Utilizadas
-- Node JS
+- <a href="https://nodejs.org/en/"> Node JS </>
 - React JS
 - React Native
 - Expo
