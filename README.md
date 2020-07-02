@@ -9,10 +9,10 @@ de ONGs  que necessitam de uma ajuda monetária para algum caso específico. É 
 aplicação completa que vai do backend, web e mobile.
 
 ### 🚀 Tecnologias Utilizadas
-- <a href="https://nodejs.org/en/"> Node JS </a>
-- React JS
-- React Native
-- Expo
+- <a href="https://nodejs.org/en/">Node JS</a>
+- <a href="hhttps://reactjs.org/">React JS</a>
+- <a href="https://reactnative.dev/">React Native</a>
+- <a href="https://expo.io/">Expo</a>
 
 ### 💻 Web
 Através da aplicação web é possível realizar o cadastro de Organizações Não
