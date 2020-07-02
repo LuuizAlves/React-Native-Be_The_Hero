@@ -10,7 +10,7 @@ aplicação completa que vai do backend, web e mobile.
 
 ### 🚀 Tecnologias Utilizadas
 - <a href="https://nodejs.org/en/">Node JS</a>
-- <a href="hhttps://reactjs.org/">React JS</a>
+- <a href="https://reactjs.org/">React JS</a>
 - <a href="https://reactnative.dev/">React Native</a>
 - <a href="https://expo.io/">Expo</a>
 
