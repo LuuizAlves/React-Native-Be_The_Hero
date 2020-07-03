@@ -1,20 +1,28 @@
 # Be The Hero 🦸‍♂️🦸‍♀️
 ![](https://img.shields.io/github/languages/count/LuuizAlves/Be_The_Hero) ![](https://img.shields.io/github/languages/top/LuuizAlves/Be_The_Hero) ![](https://img.shields.io/github/last-commit/LuuizAlves/Be_The_Hero) ![](https://img.shields.io/github/repo-size/LuuizAlves/Be_The_Hero)
 
-Aplicação desenvolvida durante a Semana OmniStack 11, utilizando a Stack Node Js, React e React Native.
+Aplicação completa - backend, web e mobile - desenvolvida durante a Semana OmniStack 11, utilizando a Stack Node Js, React e React Native.
+
+<p align="center">
+  <img src="https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/Be%20The%20Hero.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 Be The Hero é uma aplicação que conecta pessoas que possuem vontade de ajudar ao
-próximo, no entanto muitos não possuem tempo. Assim a aplicação possibilita o cadastro
-de ONGs  que necessitam de uma ajuda monetária para algum caso específico. É uma
-aplicação completa que vai do backend, web e mobile.
+próximo, no entanto muitos não possuem tempo. Assim a aplicação possibilita o cadastro de ONGs  que necessitam de uma ajuda monetária para algum caso específico.
 
 ### 🚀 Tecnologias Utilizadas
+
+<p align="center">
+  <img src="https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/Tecnologias.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 - <a href="https://nodejs.org/en/">Node JS</a>
 - <a href="https://reactjs.org/">React JS</a>
 - <a href="https://reactnative.dev/">React Native</a>
 - <a href="https://expo.io/">Expo</a>
 
-### 💻 Web
+### 💻 Web 
+<strong> Login e Cadastro de ONGs</strong>
 Através da aplicação web é possível realizar o cadastro de Organizações Não
 Governamentais (ONGs) que necessitam de algum auxilio monetário. No cadastro é
 solicitado o nome da ONG, seu email, seu contato, sua cidade e seu UF. Ao realizar o
@@ -22,6 +30,7 @@ cadastro ela pode acessar o sistema através de um ID que lhe será fornecido.
 
 ![](https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/BeTheHero.gif?raw=true)
 
+<strong> Cadastro de Casos</strong>
 Após o cadastro, a ONG tem acesso a todos os seus casos, podendo exclui-los e 
 também cadastrar novos casos. O cadastro de novos casos é preciso informar o Título do
 caso, a descrição e o valor que é necessário. Ainda na tela de Home do Be The Hero é
