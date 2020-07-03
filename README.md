@@ -22,7 +22,7 @@ próximo, no entanto muitos não possuem tempo. Assim a aplicação possibilita 
 - <a href="https://expo.io/">Expo</a>
 
 ### 💻 Web 
-<strong> Login e Cadastro de ONGs</strong>
+<strong> Login e Cadastro de ONGs</strong> <br/>
 Através da aplicação web é possível realizar o cadastro de Organizações Não
 Governamentais (ONGs) que necessitam de algum auxilio monetário. No cadastro é
 solicitado o nome da ONG, seu email, seu contato, sua cidade e seu UF. Ao realizar o
@@ -30,7 +30,7 @@ cadastro ela pode acessar o sistema através de um ID que lhe será fornecido.
 
 ![](https://github.com/LuuizAlves/Be_The_Hero/blob/master/frontend/github/BeTheHero.gif?raw=true)
 
-<strong> Cadastro de Casos</strong>
+<strong> Cadastro de Casos</strong> <br/>
 Após o cadastro, a ONG tem acesso a todos os seus casos, podendo exclui-los e 
 também cadastrar novos casos. O cadastro de novos casos é preciso informar o Título do
 caso, a descrição e o valor que é necessário. Ainda na tela de Home do Be The Hero é
